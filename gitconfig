@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$Blaaayer/dotfiles && zsh git_setup.sh
-	name = cd ~/code/$Blaaayer/dotfiles && zsh git_setup.sh
+	email = goncaloblayer_@hotmail.com
+	name = Goncalo Blayer
